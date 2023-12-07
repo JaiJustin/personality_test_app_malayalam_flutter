@@ -1,16 +1,8 @@
-# personality_test_malayalam_1
+# Personality Test App Malayalam Flutter
 
-A new Flutter project.
+This is a simple personality test app. Flutter framework used to make this app. 12 questions and each question have 5 options after the 12 questions get the personality type this is the app structure
 
-## Getting Started
+![presonlaity test screen shor](https://user-images.githubusercontent.com/87418257/125798614-249bbaf2-71cb-4aa8-99de-1f852c63baa6.png)
+![Screenshot-20210704100336-419x881](https://user-images.githubusercontent.com/87418257/125799196-0c907727-4dd0-4879-b00f-474d3b4889d8.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google PlayStoreLink:https://play.google.com/store/apps/details?id=abhijithjustinflutter.com
